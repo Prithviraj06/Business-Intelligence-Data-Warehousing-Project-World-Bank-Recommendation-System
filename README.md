@@ -1,6 +1,6 @@
 # Business-Intelligence-Project-World-Bank-Recommendation-System
 
-<img src = "worldbank.png" height = "500">
+<img src = "worldbank.png" height = "300">
 
 This project was part of the 'Business Intelligence and Data Warehousing' course.
 
